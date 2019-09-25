@@ -1,0 +1,17 @@
+{
+  "name": "search",
+  "version": "1.0.0",
+  "description": "All usage of 'url_detection' is commented out in 'server.py'. If the dependency problem is solved, they can be uncommented. I know of three ways to resolve the problem with 'datrie'.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "puppeteer": "^1.19.0"
+  }
+}

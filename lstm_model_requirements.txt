@@ -1,0 +1,9 @@
+/sources
+/models
+/vocab_files
+/jieba
+/jieba_config_file
+
+lstm_live.py
+
+These files and docs must be under the same doc as server.py
